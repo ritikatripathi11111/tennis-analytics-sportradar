@@ -1,0 +1,2 @@
+-- Create the six logical tables described in the project brief.
+-- Categories, Competitions, Complexes, Venues, Competitors, Competitor_Rankings

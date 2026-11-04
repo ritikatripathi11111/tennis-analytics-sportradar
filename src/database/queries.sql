@@ -1,0 +1,1 @@
+-- Add the 20 required analysis queries here.
