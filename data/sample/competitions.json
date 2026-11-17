@@ -1,0 +1,1120 @@
+{
+  "generated_at": "2026-11-17T00:00:00+00:00",
+  "competitions": [
+    {
+      "id": "sr:competition:1001",
+      "name": "ATP Vienna 2026",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1002",
+      "name": "ATP Vienna Singles",
+      "parent_id": "sr:competition:1001",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1003",
+      "name": "ATP Vienna Doubles",
+      "parent_id": "sr:competition:1001",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1004",
+      "name": "ATP Tokyo 2025",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1005",
+      "name": "ATP Tokyo Singles",
+      "parent_id": "sr:competition:1004",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1006",
+      "name": "ATP Tokyo Doubles",
+      "parent_id": "sr:competition:1004",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1007",
+      "name": "ATP Tokyo Mixed",
+      "parent_id": "sr:competition:1004",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1008",
+      "name": "ATP Santiago 2024",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1009",
+      "name": "ATP Santiago Singles",
+      "parent_id": "sr:competition:1008",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1010",
+      "name": "ATP Santiago Doubles",
+      "parent_id": "sr:competition:1008",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1011",
+      "name": "ATP Santiago 2023",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1012",
+      "name": "ATP Santiago Singles",
+      "parent_id": "sr:competition:1011",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1013",
+      "name": "ATP Santiago Doubles",
+      "parent_id": "sr:competition:1011",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:1014",
+      "name": "WTA Vienna 2026",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1015",
+      "name": "WTA Vienna Singles",
+      "parent_id": "sr:competition:1014",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1016",
+      "name": "WTA Vienna Doubles",
+      "parent_id": "sr:competition:1014",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1017",
+      "name": "WTA Vienna Mixed",
+      "parent_id": "sr:competition:1014",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1018",
+      "name": "WTA Tokyo 2025",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1019",
+      "name": "WTA Tokyo Singles",
+      "parent_id": "sr:competition:1018",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1020",
+      "name": "WTA Tokyo Doubles",
+      "parent_id": "sr:competition:1018",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1021",
+      "name": "WTA Vienna 2024",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1022",
+      "name": "WTA Vienna Singles",
+      "parent_id": "sr:competition:1021",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1023",
+      "name": "WTA Vienna Doubles",
+      "parent_id": "sr:competition:1021",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1024",
+      "name": "WTA Madrid 2023",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1025",
+      "name": "WTA Madrid Singles",
+      "parent_id": "sr:competition:1024",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1026",
+      "name": "WTA Madrid Doubles",
+      "parent_id": "sr:competition:1024",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1027",
+      "name": "WTA Madrid Mixed",
+      "parent_id": "sr:competition:1024",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:6",
+        "name": "WTA"
+      }
+    },
+    {
+      "id": "sr:competition:1028",
+      "name": "ITF Men Vienna 2026",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1029",
+      "name": "ITF Men Vienna Singles",
+      "parent_id": "sr:competition:1028",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1030",
+      "name": "ITF Men Vienna Doubles",
+      "parent_id": "sr:competition:1028",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1031",
+      "name": "ITF Men Lyon 2025",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1032",
+      "name": "ITF Men Lyon Singles",
+      "parent_id": "sr:competition:1031",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1033",
+      "name": "ITF Men Lyon Doubles",
+      "parent_id": "sr:competition:1031",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1034",
+      "name": "ITF Men Basel 2024",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1035",
+      "name": "ITF Men Basel Singles",
+      "parent_id": "sr:competition:1034",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1036",
+      "name": "ITF Men Basel Doubles",
+      "parent_id": "sr:competition:1034",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1037",
+      "name": "ITF Men Basel Mixed",
+      "parent_id": "sr:competition:1034",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1038",
+      "name": "ITF Men Tokyo 2023",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1039",
+      "name": "ITF Men Tokyo Singles",
+      "parent_id": "sr:competition:1038",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1040",
+      "name": "ITF Men Tokyo Doubles",
+      "parent_id": "sr:competition:1038",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1041",
+      "name": "ITF Men Basel 2022",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1042",
+      "name": "ITF Men Basel Singles",
+      "parent_id": "sr:competition:1041",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1043",
+      "name": "ITF Men Basel Doubles",
+      "parent_id": "sr:competition:1041",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1044",
+      "name": "ITF Men Basel Mixed",
+      "parent_id": "sr:competition:1041",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1045",
+      "name": "ITF Men Madrid 2021",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1046",
+      "name": "ITF Men Madrid Singles",
+      "parent_id": "sr:competition:1045",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1047",
+      "name": "ITF Men Madrid Doubles",
+      "parent_id": "sr:competition:1045",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1048",
+      "name": "ITF Men Madrid Mixed",
+      "parent_id": "sr:competition:1045",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:785",
+        "name": "ITF Men"
+      }
+    },
+    {
+      "id": "sr:competition:1049",
+      "name": "ITF Women Miami 2026",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1050",
+      "name": "ITF Women Miami Singles",
+      "parent_id": "sr:competition:1049",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1051",
+      "name": "ITF Women Miami Doubles",
+      "parent_id": "sr:competition:1049",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1052",
+      "name": "ITF Women Pune 2025",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1053",
+      "name": "ITF Women Pune Singles",
+      "parent_id": "sr:competition:1052",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1054",
+      "name": "ITF Women Pune Doubles",
+      "parent_id": "sr:competition:1052",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1055",
+      "name": "ITF Women Madrid 2024",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1056",
+      "name": "ITF Women Madrid Singles",
+      "parent_id": "sr:competition:1055",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1057",
+      "name": "ITF Women Madrid Doubles",
+      "parent_id": "sr:competition:1055",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1058",
+      "name": "ITF Women Madrid Mixed",
+      "parent_id": "sr:competition:1055",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1059",
+      "name": "ITF Women Miami 2023",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1060",
+      "name": "ITF Women Miami Singles",
+      "parent_id": "sr:competition:1059",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1061",
+      "name": "ITF Women Miami Doubles",
+      "parent_id": "sr:competition:1059",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1062",
+      "name": "ITF Women Basel 2022",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1063",
+      "name": "ITF Women Basel Singles",
+      "parent_id": "sr:competition:1062",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1064",
+      "name": "ITF Women Basel Doubles",
+      "parent_id": "sr:competition:1062",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1065",
+      "name": "ITF Women Santiago 2021",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1066",
+      "name": "ITF Women Santiago Singles",
+      "parent_id": "sr:competition:1065",
+      "type": "singles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1067",
+      "name": "ITF Women Santiago Doubles",
+      "parent_id": "sr:competition:1065",
+      "type": "doubles",
+      "gender": "women",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1068",
+      "name": "ITF Women Santiago Mixed",
+      "parent_id": "sr:competition:1065",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:213",
+        "name": "ITF Women"
+      }
+    },
+    {
+      "id": "sr:competition:1069",
+      "name": "Challenger Miami 2026",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1070",
+      "name": "Challenger Miami Singles",
+      "parent_id": "sr:competition:1069",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1071",
+      "name": "Challenger Miami Doubles",
+      "parent_id": "sr:competition:1069",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1072",
+      "name": "Challenger Tokyo 2025",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1073",
+      "name": "Challenger Tokyo Singles",
+      "parent_id": "sr:competition:1072",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1074",
+      "name": "Challenger Tokyo Doubles",
+      "parent_id": "sr:competition:1072",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1075",
+      "name": "Challenger Madrid 2024",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1076",
+      "name": "Challenger Madrid Singles",
+      "parent_id": "sr:competition:1075",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1077",
+      "name": "Challenger Madrid Doubles",
+      "parent_id": "sr:competition:1075",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1078",
+      "name": "Challenger Madrid Mixed",
+      "parent_id": "sr:competition:1075",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1079",
+      "name": "Challenger Basel 2023",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1080",
+      "name": "Challenger Basel Singles",
+      "parent_id": "sr:competition:1079",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1081",
+      "name": "Challenger Basel Doubles",
+      "parent_id": "sr:competition:1079",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1082",
+      "name": "Challenger Basel Mixed",
+      "parent_id": "sr:competition:1079",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1083",
+      "name": "Challenger Basel 2022",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1084",
+      "name": "Challenger Basel Singles",
+      "parent_id": "sr:competition:1083",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1085",
+      "name": "Challenger Basel Doubles",
+      "parent_id": "sr:competition:1083",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1086",
+      "name": "Challenger Basel Mixed",
+      "parent_id": "sr:competition:1083",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:99",
+        "name": "Challenger"
+      }
+    },
+    {
+      "id": "sr:competition:1087",
+      "name": "Davis Cup Santiago 2026",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1088",
+      "name": "Davis Cup Santiago Singles",
+      "parent_id": "sr:competition:1087",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1089",
+      "name": "Davis Cup Santiago Doubles",
+      "parent_id": "sr:competition:1087",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1090",
+      "name": "Davis Cup Lyon 2025",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1091",
+      "name": "Davis Cup Lyon Singles",
+      "parent_id": "sr:competition:1090",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1092",
+      "name": "Davis Cup Lyon Doubles",
+      "parent_id": "sr:competition:1090",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1093",
+      "name": "Davis Cup Tokyo 2024",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1094",
+      "name": "Davis Cup Tokyo Singles",
+      "parent_id": "sr:competition:1093",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1095",
+      "name": "Davis Cup Tokyo Doubles",
+      "parent_id": "sr:competition:1093",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1096",
+      "name": "Davis Cup Tokyo Mixed",
+      "parent_id": "sr:competition:1093",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1097",
+      "name": "Davis Cup Madrid 2023",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1098",
+      "name": "Davis Cup Madrid Singles",
+      "parent_id": "sr:competition:1097",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1099",
+      "name": "Davis Cup Madrid Doubles",
+      "parent_id": "sr:competition:1097",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1100",
+      "name": "Davis Cup Madrid Mixed",
+      "parent_id": "sr:competition:1097",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1101",
+      "name": "Davis Cup Tokyo 2022",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1102",
+      "name": "Davis Cup Tokyo Singles",
+      "parent_id": "sr:competition:1101",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1103",
+      "name": "Davis Cup Tokyo Doubles",
+      "parent_id": "sr:competition:1101",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1104",
+      "name": "Davis Cup Vienna 2021",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1105",
+      "name": "Davis Cup Vienna Singles",
+      "parent_id": "sr:competition:1104",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1106",
+      "name": "Davis Cup Vienna Doubles",
+      "parent_id": "sr:competition:1104",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    },
+    {
+      "id": "sr:competition:1107",
+      "name": "Davis Cup Vienna Mixed",
+      "parent_id": "sr:competition:1104",
+      "type": "mixed",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:12",
+        "name": "Davis Cup"
+      }
+    }
+  ]
+}
