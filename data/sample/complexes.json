@@ -1,0 +1,185 @@
+{
+  "generated_at": "2026-11-17T00:00:00+00:00",
+  "complexes": [
+    {
+      "id": "sr:complex:1",
+      "name": "Nacional",
+      "venues": [
+        {
+          "id": "sr:venue:5001",
+          "name": "Court Central",
+          "city_name": "Santiago",
+          "country_name": "Chile",
+          "country_code": "CHL",
+          "timezone": "America/Santiago"
+        },
+        {
+          "id": "sr:venue:5002",
+          "name": "Court Andes",
+          "city_name": "Santiago",
+          "country_name": "Chile",
+          "country_code": "CHL",
+          "timezone": "America/Santiago"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:2",
+      "name": "Stadthalle Complex",
+      "venues": [
+        {
+          "id": "sr:venue:5003",
+          "name": "Stadthalle",
+          "city_name": "Vienna",
+          "country_name": "Austria",
+          "country_code": "AUT",
+          "timezone": "Europe/Vienna"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:3",
+      "name": "Roland Park",
+      "venues": [
+        {
+          "id": "sr:venue:5004",
+          "name": "Court Philippe",
+          "city_name": "Paris",
+          "country_name": "France",
+          "country_code": "FRA",
+          "timezone": "Europe/Paris"
+        },
+        {
+          "id": "sr:venue:5005",
+          "name": "Court Suzanne",
+          "city_name": "Paris",
+          "country_name": "France",
+          "country_code": "FRA",
+          "timezone": "Europe/Paris"
+        },
+        {
+          "id": "sr:venue:5006",
+          "name": "Court Simonne",
+          "city_name": "Paris",
+          "country_name": "France",
+          "country_code": "FRA",
+          "timezone": "Europe/Paris"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:4",
+      "name": "Flushing Grounds",
+      "venues": [
+        {
+          "id": "sr:venue:5007",
+          "name": "Arena Grande",
+          "city_name": "New York",
+          "country_name": "United States",
+          "country_code": "USA",
+          "timezone": "America/New_York"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:5",
+      "name": "Melbourne Park",
+      "venues": [
+        {
+          "id": "sr:venue:5008",
+          "name": "Rod Arena",
+          "city_name": "Melbourne",
+          "country_name": "Australia",
+          "country_code": "AUS",
+          "timezone": "Australia/Melbourne"
+        },
+        {
+          "id": "sr:venue:5009",
+          "name": "Margaret Court",
+          "city_name": "Melbourne",
+          "country_name": "Australia",
+          "country_code": "AUS",
+          "timezone": "Australia/Melbourne"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:6",
+      "name": "Foro Italico",
+      "venues": [
+        {
+          "id": "sr:venue:5010",
+          "name": "Centrale",
+          "city_name": "Rome",
+          "country_name": "Italy",
+          "country_code": "ITA",
+          "timezone": "Europe/Rome"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:7",
+      "name": "Caja Magica",
+      "venues": [
+        {
+          "id": "sr:venue:5011",
+          "name": "Manolo Santana",
+          "city_name": "Madrid",
+          "country_name": "Spain",
+          "country_code": "ESP",
+          "timezone": "Europe/Madrid"
+        },
+        {
+          "id": "sr:venue:5012",
+          "name": "Court Two",
+          "city_name": "Madrid",
+          "country_name": "Spain",
+          "country_code": "ESP",
+          "timezone": "Europe/Madrid"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:8",
+      "name": "Ariake Colosseum",
+      "venues": [
+        {
+          "id": "sr:venue:5013",
+          "name": "Colosseum",
+          "city_name": "Tokyo",
+          "country_name": "Japan",
+          "country_code": "JPN",
+          "timezone": "Asia/Tokyo"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:9",
+      "name": "Balewadi Sports",
+      "venues": [
+        {
+          "id": "sr:venue:5014",
+          "name": "Mahalunge Court",
+          "city_name": "Pune",
+          "country_name": "India",
+          "country_code": "IND",
+          "timezone": "Asia/Kolkata"
+        }
+      ]
+    },
+    {
+      "id": "sr:complex:10",
+      "name": "Club Zagreb",
+      "venues": [
+        {
+          "id": "sr:venue:5015",
+          "name": "Dom Sportova",
+          "city_name": "Zagreb",
+          "country_name": "Croatia",
+          "country_code": "HRV",
+          "timezone": "Europe/Zagreb"
+        }
+      ]
+    }
+  ]
+}
